@@ -1,0 +1,1213 @@
+{
+  "bpmn-io/bpmn-js#1302": {
+    "issue": {
+      "number": 1302,
+      "title": "Labels move twice when adding lane",
+      "url": "https://github.com/bpmn-io/bpmn-js/issues/1302"
+    },
+    "linkedPR": {
+      "number": 1344,
+      "title": "Space Tool Improvements 2/2",
+      "url": "https://github.com/bpmn-io/bpmn-js/pull/1344",
+      "merged": true
+    },
+    "baseSha": "6601498620b557c8dbf4002492b076f450d532bd",
+    "fetchedAt": "2026-03-29T15:23:57.161Z"
+  },
+  "terkelg/prompts#269": {
+    "issue": {
+      "number": 269,
+      "title": "Loop cursor on all prompts",
+      "url": "https://github.com/terkelg/prompts/issues/269"
+    },
+    "linkedPR": {
+      "number": 270,
+      "title": "Loop cursor on all select-style prompts",
+      "url": "https://github.com/terkelg/prompts/pull/270",
+      "merged": true
+    },
+    "baseSha": "be513e21055e32c61b61b3448eae005b2510e957",
+    "fetchedAt": "2026-03-29T15:24:11.097Z"
+  },
+  "npm/cli#4739": {
+    "issue": {
+      "number": 4739,
+      "title": "[BUG] `npm ls --omit=dev` does not omit dev dependencies",
+      "url": "https://github.com/npm/cli/issues/4739"
+    },
+    "linkedPR": {
+      "number": 4744,
+      "title": "fix(ls): make `--omit` filter `npm ls`",
+      "url": "https://github.com/npm/cli/pull/4744",
+      "merged": true
+    },
+    "baseSha": "0cd852f62e1453e647a2551e98c78ce7e0c8ea03",
+    "fetchedAt": "2026-03-29T15:24:21.232Z"
+  },
+  "npm/cli#6473": {
+    "issue": {
+      "number": 6473,
+      "title": "[DOCS] `npm help dedupe` mentions an option for `npm install` that is not documented in `npm help install`",
+      "url": "https://github.com/npm/cli/issues/6473"
+    },
+    "linkedPR": {
+      "number": 6483,
+      "title": "feat: implement flag --prefer-dedupe for `npm install`",
+      "url": "https://github.com/npm/cli/pull/6483",
+      "merged": true
+    },
+    "baseSha": "173bc89b986ae208effe87cea6ed041c77a57bb5",
+    "fetchedAt": "2026-03-29T15:24:29.423Z"
+  },
+  "vercel/ncc#606": {
+    "issue": {
+      "number": 606,
+      "title": "Fails to compile when tsconfig has `incremental: true`",
+      "url": "https://github.com/vercel/ncc/issues/606"
+    },
+    "linkedPR": {
+      "number": 674,
+      "title": "enhance: upgrade local ts",
+      "url": "https://github.com/vercel/ncc/pull/674",
+      "merged": true
+    },
+    "baseSha": "6c114120b289be349750e0bc972e3e2bdf35bf9b",
+    "fetchedAt": "2026-03-29T15:24:36.751Z"
+  },
+  "sinonjs/sinon#1026": {
+    "issue": {
+      "number": 1026,
+      "title": "sinon.stub an object with 'watch' function doesn't stub the watch function",
+      "url": "https://github.com/sinonjs/sinon/issues/1026"
+    },
+    "linkedPR": {
+      "number": 1214,
+      "title": "Fix 1026 in 2.x",
+      "url": "https://github.com/sinonjs/sinon/pull/1214",
+      "merged": true
+    },
+    "baseSha": "c446844305e428322a32680365bd37e704392128",
+    "fetchedAt": "2026-03-29T15:24:49.516Z"
+  },
+  "DagsHub/fds#157": {
+    "issue": {
+      "number": 157,
+      "title": "Checking for a new version of fds breaks when access to PyPI is unavailable",
+      "url": "https://github.com/DagsHub/fds/issues/157"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:39:30.845Z"
+  },
+  "DagsHub/fds#151": {
+    "issue": {
+      "number": 151,
+      "title": "Update Obsolete Dependencies",
+      "url": "https://github.com/DagsHub/fds/issues/151"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:39:32.839Z"
+  },
+  "DagsHub/fds#122": {
+    "issue": {
+      "number": 122,
+      "title": "Test issue",
+      "url": "https://github.com/DagsHub/fds/issues/122"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:39:34.840Z"
+  },
+  "DagsHub/fds#121": {
+    "issue": {
+      "number": 121,
+      "title": "fds fails to pull dvc on windows",
+      "url": "https://github.com/DagsHub/fds/issues/121"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:39:36.860Z"
+  },
+  "DagsHub/fds#120": {
+    "issue": {
+      "number": 120,
+      "title": "fds clone need extra argument folder location ",
+      "url": "https://github.com/DagsHub/fds/issues/120"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:39:38.849Z"
+  },
+  "DagsHub/fds#117": {
+    "issue": {
+      "number": 117,
+      "title": "Documentation request: using fds with git repo already using dvc",
+      "url": "https://github.com/DagsHub/fds/issues/117"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:39:40.871Z"
+  },
+  "DagsHub/fds#116": {
+    "issue": {
+      "number": 116,
+      "title": "Documentation request: how to migrate from git and dvc hooks (pre-commit package) to fds",
+      "url": "https://github.com/DagsHub/fds/issues/116"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:39:42.832Z"
+  },
+  "DagsHub/fds#107": {
+    "issue": {
+      "number": 107,
+      "title": "Remove hardcoded dvc installation version",
+      "url": "https://github.com/DagsHub/fds/issues/107"
+    },
+    "linkedPR": {
+      "number": 106,
+      "title": "Allow user input from google colab",
+      "url": "https://github.com/DagsHub/fds/pull/106",
+      "merged": true,
+      "changedFiles": 9
+    },
+    "baseSha": "4ba0335fea79a1122b58223d3edadf7d0202f882",
+    "fileChangedCount": 9,
+    "fetchedAt": "2026-03-29T15:39:45.592Z"
+  },
+  "DagsHub/fds#101": {
+    "issue": {
+      "number": 101,
+      "title": "fds add doesn't work when the user is inside a sub folder",
+      "url": "https://github.com/DagsHub/fds/issues/101"
+    },
+    "linkedPR": {
+      "number": 105,
+      "title": "Fix an issue with relative path",
+      "url": "https://github.com/DagsHub/fds/pull/105",
+      "merged": true,
+      "changedFiles": 8
+    },
+    "baseSha": "a3de18f4f72e61298221a63023d35289a6ccf988",
+    "fileChangedCount": 8,
+    "fetchedAt": "2026-03-29T15:39:46.353Z"
+  },
+  "DagsHub/fds#97": {
+    "issue": {
+      "number": 97,
+      "title": "fds init",
+      "url": "https://github.com/DagsHub/fds/issues/97"
+    },
+    "linkedPR": {
+      "number": 98,
+      "title": "Move __version__ to a version file",
+      "url": "https://github.com/DagsHub/fds/pull/98",
+      "merged": true,
+      "changedFiles": 6
+    },
+    "baseSha": "b2fcb15ce822bcffcec7066e522b11072549729d",
+    "fileChangedCount": 6,
+    "fetchedAt": "2026-03-29T15:39:47.307Z"
+  },
+  "DagsHub/fds#94": {
+    "issue": {
+      "number": 94,
+      "title": "Extension-based logic for `fds add`",
+      "url": "https://github.com/DagsHub/fds/issues/94"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:39:48.625Z"
+  },
+  "DagsHub/fds#92": {
+    "issue": {
+      "number": 92,
+      "title": "DVC and Git services don't correctly detect the repo root directory",
+      "url": "https://github.com/DagsHub/fds/issues/92"
+    },
+    "linkedPR": {
+      "number": 93,
+      "title": "Detect root of git and dvc",
+      "url": "https://github.com/DagsHub/fds/pull/93",
+      "merged": true,
+      "changedFiles": 7
+    },
+    "baseSha": "516ea4e17b436ea661c27994369b58958cb98533",
+    "fileChangedCount": 7,
+    "fetchedAt": "2026-03-29T15:39:49.339Z"
+  },
+  "DagsHub/fds#87": {
+    "issue": {
+      "number": 87,
+      "title": "fsd clone for non-DVC repos throws an error",
+      "url": "https://github.com/DagsHub/fds/issues/87"
+    },
+    "linkedPR": {
+      "number": 88,
+      "title": "Fix dvc clone to ask if its git only project",
+      "url": "https://github.com/DagsHub/fds/pull/88",
+      "merged": true,
+      "changedFiles": 7
+    },
+    "baseSha": "694a75ae828ec18323eb184675f938b776a14ce9",
+    "fileChangedCount": 7,
+    "fetchedAt": "2026-03-29T15:39:50.325Z"
+  },
+  "DagsHub/fds#86": {
+    "issue": {
+      "number": 86,
+      "title": "Implement `fds -V` or `fds --version`",
+      "url": "https://github.com/DagsHub/fds/issues/86"
+    },
+    "linkedPR": {
+      "number": 89,
+      "title": "Add fds to show version with `fds version`",
+      "url": "https://github.com/DagsHub/fds/pull/89",
+      "merged": true,
+      "changedFiles": 7
+    },
+    "baseSha": "4e57e29564ab11cc693e8c546105908a7f161069",
+    "fileChangedCount": 7,
+    "fetchedAt": "2026-03-29T15:39:51.333Z"
+  },
+  "DagsHub/fds#85": {
+    "issue": {
+      "number": 85,
+      "title": "Auto update FDS only tries with `pip` and not `pip3`",
+      "url": "https://github.com/DagsHub/fds/issues/85"
+    },
+    "linkedPR": {
+      "number": 88,
+      "title": "Fix dvc clone to ask if its git only project",
+      "url": "https://github.com/DagsHub/fds/pull/88",
+      "merged": true,
+      "changedFiles": 7
+    },
+    "baseSha": "694a75ae828ec18323eb184675f938b776a14ce9",
+    "fileChangedCount": 7,
+    "fetchedAt": "2026-03-29T15:39:52.323Z"
+  },
+  "DagsHub/fds#82": {
+    "issue": {
+      "number": 82,
+      "title": "Detect missing authentication for dvc",
+      "url": "https://github.com/DagsHub/fds/issues/82"
+    },
+    "linkedPR": {
+      "number": 83,
+      "title": "Integrate dvc auth with dvc pull",
+      "url": "https://github.com/DagsHub/fds/pull/83",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "a003a4481eb60f811ce070ba19dc9e83d5e98c35",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:39:53.295Z"
+  },
+  "DagsHub/fds#76": {
+    "issue": {
+      "number": 76,
+      "title": "Error in command description for fds clone",
+      "url": "https://github.com/DagsHub/fds/issues/76"
+    },
+    "linkedPR": {
+      "number": 90,
+      "title": "Fix documentation for fds clone",
+      "url": "https://github.com/DagsHub/fds/pull/90",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "4e57e29564ab11cc693e8c546105908a7f161069",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:39:54.344Z"
+  },
+  "DagsHub/fds#69": {
+    "issue": {
+      "number": 69,
+      "title": "Add \"skip\" option to fds add wizard",
+      "url": "https://github.com/DagsHub/fds/issues/69"
+    },
+    "linkedPR": {
+      "number": 74,
+      "title": "Add skip option to `fds add` wizard",
+      "url": "https://github.com/DagsHub/fds/pull/74",
+      "merged": true,
+      "changedFiles": 7
+    },
+    "baseSha": "df6a890e9e02990661a535115983b69107ce4b9a",
+    "fileChangedCount": 7,
+    "fetchedAt": "2026-03-29T15:39:55.392Z"
+  },
+  "DagsHub/fds#68": {
+    "issue": {
+      "number": 68,
+      "title": "fds add wizard – add ignored (`i`) files to `.dvcignore` too",
+      "url": "https://github.com/DagsHub/fds/issues/68"
+    },
+    "linkedPR": {
+      "number": 75,
+      "title": "Add ignored files to dvcignore too",
+      "url": "https://github.com/DagsHub/fds/pull/75",
+      "merged": true,
+      "changedFiles": 3
+    },
+    "baseSha": "0b14a224ba6c99164e71b59bbb7d00692f1ce2d4",
+    "fileChangedCount": 3,
+    "fetchedAt": "2026-03-29T15:39:56.254Z"
+  },
+  "DagsHub/fds#66": {
+    "issue": {
+      "number": 66,
+      "title": "fds add takes a long time in a large repo",
+      "url": "https://github.com/DagsHub/fds/issues/66"
+    },
+    "linkedPR": {
+      "number": 67,
+      "title": "Improve fds add performance by checking dvc-ignore when necessary",
+      "url": "https://github.com/DagsHub/fds/pull/67",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "33485e8d8e55923160f4483d43892ed273abaddd",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:39:57.344Z"
+  },
+  "DagsHub/fds#65": {
+    "issue": {
+      "number": 65,
+      "title": "\"fds forget\" feature proposal",
+      "url": "https://github.com/DagsHub/fds/issues/65"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:39:58.652Z"
+  },
+  "DagsHub/fds#64": {
+    "issue": {
+      "number": 64,
+      "title": "Support multiple paths in fds add",
+      "url": "https://github.com/DagsHub/fds/issues/64"
+    },
+    "linkedPR": {
+      "number": 71,
+      "title": "Supporting multiple paths",
+      "url": "https://github.com/DagsHub/fds/pull/71",
+      "merged": true,
+      "changedFiles": 4
+    },
+    "baseSha": "b0f862b0d1a8d4ab3847a68821f8473ec8e03d10",
+    "fileChangedCount": 4,
+    "fetchedAt": "2026-03-29T15:39:59.470Z"
+  },
+  "DagsHub/fds#62": {
+    "issue": {
+      "number": 62,
+      "title": "Fail tests on flake8 failure",
+      "url": "https://github.com/DagsHub/fds/issues/62"
+    },
+    "linkedPR": {
+      "number": 63,
+      "title": "Fail tests on flake8 failure",
+      "url": "https://github.com/DagsHub/fds/pull/63",
+      "merged": true,
+      "changedFiles": 10
+    },
+    "baseSha": "032f2a9049824fe012bd6baf6f9b91f5bf1fbb5c",
+    "fileChangedCount": 10,
+    "fetchedAt": "2026-03-29T15:40:00.317Z"
+  },
+  "DagsHub/fds#60": {
+    "issue": {
+      "number": 60,
+      "title": "Remove dependency on pygit2",
+      "url": "https://github.com/DagsHub/fds/issues/60"
+    },
+    "linkedPR": {
+      "number": 61,
+      "title": "Got rid of pygit2",
+      "url": "https://github.com/DagsHub/fds/pull/61",
+      "merged": true,
+      "changedFiles": 2
+    },
+    "baseSha": "defac7f0e160c4b19af6bb2f7801d2756ac06dba",
+    "fileChangedCount": 2,
+    "fetchedAt": "2026-03-29T15:40:01.277Z"
+  },
+  "DagsHub/fds#58": {
+    "issue": {
+      "number": 58,
+      "title": "Detect missing authentication details on DVC remote",
+      "url": "https://github.com/DagsHub/fds/issues/58"
+    },
+    "linkedPR": {
+      "number": 80,
+      "title": "Make `fds push` ask for credentials of user if its not authenticated already",
+      "url": "https://github.com/DagsHub/fds/pull/80",
+      "merged": true,
+      "changedFiles": 3
+    },
+    "baseSha": "0e537a60f604b5d70690e3573d9e752f400d011e",
+    "fileChangedCount": 3,
+    "fetchedAt": "2026-03-29T15:40:02.361Z"
+  },
+  "DagsHub/fds#56": {
+    "issue": {
+      "number": 56,
+      "title": "Check latest version on PyPI and suggest to upgrade",
+      "url": "https://github.com/DagsHub/fds/issues/56"
+    },
+    "linkedPR": {
+      "number": 73,
+      "title": "Feature to check for latest version before running a command",
+      "url": "https://github.com/DagsHub/fds/pull/73",
+      "merged": true,
+      "changedFiles": 4
+    },
+    "baseSha": "ca129fc39143c157f812df58c0e152eaf20ab115",
+    "fileChangedCount": 4,
+    "fetchedAt": "2026-03-29T15:40:03.467Z"
+  },
+  "DagsHub/fds#54": {
+    "issue": {
+      "number": 54,
+      "title": "Support \"sdf\" as an alternative command",
+      "url": "https://github.com/DagsHub/fds/issues/54"
+    },
+    "linkedPR": {
+      "number": 55,
+      "title": "Support sdf as an alternative command to fds",
+      "url": "https://github.com/DagsHub/fds/pull/55",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "057af6b292f1266992b551bf654f49e6a3a0b478",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:40:04.340Z"
+  },
+  "DagsHub/fds#52": {
+    "issue": {
+      "number": 52,
+      "title": "Support a \"fds clone\" command",
+      "url": "https://github.com/DagsHub/fds/issues/52"
+    },
+    "linkedPR": {
+      "number": 53,
+      "title": "Implement clone command",
+      "url": "https://github.com/DagsHub/fds/pull/53",
+      "merged": true,
+      "changedFiles": 16
+    },
+    "baseSha": "c134b8e7d80c5869afc80852372d981d6e4f017d",
+    "fileChangedCount": 16,
+    "fetchedAt": "2026-03-29T15:40:05.432Z"
+  },
+  "DagsHub/fds#44": {
+    "issue": {
+      "number": 44,
+      "title": "DVC adding large files takes long and the program feels stuck",
+      "url": "https://github.com/DagsHub/fds/issues/44"
+    },
+    "linkedPR": {
+      "number": 46,
+      "title": "Improve UX by showing progress bar while adding large files to DVC and other minor fixes to improve usability",
+      "url": "https://github.com/DagsHub/fds/pull/46",
+      "merged": true,
+      "changedFiles": 8
+    },
+    "baseSha": "531bdb6efced25405a001008deb178623e018b74",
+    "fileChangedCount": 8,
+    "fetchedAt": "2026-03-29T15:40:06.379Z"
+  },
+  "DagsHub/fds#43": {
+    "issue": {
+      "number": 43,
+      "title": "Support -m flag in fds commit",
+      "url": "https://github.com/DagsHub/fds/issues/43"
+    },
+    "linkedPR": {
+      "number": 46,
+      "title": "Improve UX by showing progress bar while adding large files to DVC and other minor fixes to improve usability",
+      "url": "https://github.com/DagsHub/fds/pull/46",
+      "merged": true,
+      "changedFiles": 8
+    },
+    "baseSha": "531bdb6efced25405a001008deb178623e018b74",
+    "fileChangedCount": 8,
+    "fetchedAt": "2026-03-29T15:40:07.327Z"
+  },
+  "DagsHub/fds#42": {
+    "issue": {
+      "number": 42,
+      "title": "Don't display \"DVC add successfully executed\" if no files added to DVC",
+      "url": "https://github.com/DagsHub/fds/issues/42"
+    },
+    "linkedPR": {
+      "number": 46,
+      "title": "Improve UX by showing progress bar while adding large files to DVC and other minor fixes to improve usability",
+      "url": "https://github.com/DagsHub/fds/pull/46",
+      "merged": true,
+      "changedFiles": 8
+    },
+    "baseSha": "531bdb6efced25405a001008deb178623e018b74",
+    "fileChangedCount": 8,
+    "fetchedAt": "2026-03-29T15:40:08.378Z"
+  },
+  "DagsHub/fds#41": {
+    "issue": {
+      "number": 41,
+      "title": "Print correct message when running fds init in an existing repo",
+      "url": "https://github.com/DagsHub/fds/issues/41"
+    },
+    "linkedPR": {
+      "number": 46,
+      "title": "Improve UX by showing progress bar while adding large files to DVC and other minor fixes to improve usability",
+      "url": "https://github.com/DagsHub/fds/pull/46",
+      "merged": true,
+      "changedFiles": 8
+    },
+    "baseSha": "531bdb6efced25405a001008deb178623e018b74",
+    "fileChangedCount": 8,
+    "fetchedAt": "2026-03-29T15:40:09.397Z"
+  },
+  "DagsHub/fds#39": {
+    "issue": {
+      "number": 39,
+      "title": "Fails to add files to DVC tracking",
+      "url": "https://github.com/DagsHub/fds/issues/39"
+    },
+    "linkedPR": {
+      "number": 40,
+      "title": "FIx FDS add bug to work with DVC and git",
+      "url": "https://github.com/DagsHub/fds/pull/40",
+      "merged": true,
+      "changedFiles": 3
+    },
+    "baseSha": "a8fea54f59131d3ddea4df5184adeee3ecc9998f",
+    "fileChangedCount": 3,
+    "fetchedAt": "2026-03-29T15:40:10.342Z"
+  },
+  "DagsHub/fds#38": {
+    "issue": {
+      "number": 38,
+      "title": "Get rid of sys.exit calls in commands",
+      "url": "https://github.com/DagsHub/fds/issues/38"
+    },
+    "linkedPR": {
+      "number": 47,
+      "title": "Remove sys.exit calls and lazy \"dvc add\" prompt",
+      "url": "https://github.com/DagsHub/fds/pull/47",
+      "merged": true,
+      "changedFiles": 4
+    },
+    "baseSha": "58c0fcec8f5ec652fb9c8b2a5e7dbabc022bc50f",
+    "fileChangedCount": 4,
+    "fetchedAt": "2026-03-29T15:40:12.602Z"
+  },
+  "DagsHub/fds#37": {
+    "issue": {
+      "number": 37,
+      "title": "Only display the DVC add prompt if there is anything to add",
+      "url": "https://github.com/DagsHub/fds/issues/37"
+    },
+    "linkedPR": {
+      "number": 47,
+      "title": "Remove sys.exit calls and lazy \"dvc add\" prompt",
+      "url": "https://github.com/DagsHub/fds/pull/47",
+      "merged": true,
+      "changedFiles": 4
+    },
+    "baseSha": "58c0fcec8f5ec652fb9c8b2a5e7dbabc022bc50f",
+    "fileChangedCount": 4,
+    "fetchedAt": "2026-03-29T15:40:13.305Z"
+  },
+  "DagsHub/fds#35": {
+    "issue": {
+      "number": 35,
+      "title": "Automatically trigger fds init",
+      "url": "https://github.com/DagsHub/fds/issues/35"
+    },
+    "linkedPR": {
+      "number": 91,
+      "title": "feat(run): implement pre-command hook runner to handle edge cases",
+      "url": "https://github.com/DagsHub/fds/pull/91",
+      "merged": true,
+      "changedFiles": 6
+    },
+    "baseSha": "516ea4e17b436ea661c27994369b58958cb98533",
+    "fileChangedCount": 6,
+    "fetchedAt": "2026-03-29T15:40:14.265Z"
+  },
+  "DagsHub/fds#31": {
+    "issue": {
+      "number": 31,
+      "title": "Run tests on PRs",
+      "url": "https://github.com/DagsHub/fds/issues/31"
+    },
+    "linkedPR": {
+      "number": 32,
+      "title": "Github actions for python linting and testing",
+      "url": "https://github.com/DagsHub/fds/pull/32",
+      "merged": true,
+      "changedFiles": 2
+    },
+    "baseSha": "bcc9ff69aea134427efdaf703a45afd854125eee",
+    "fileChangedCount": 2,
+    "fetchedAt": "2026-03-29T15:40:15.335Z"
+  },
+  "DagsHub/fds#27": {
+    "issue": {
+      "number": 27,
+      "title": "[Bug] Showing success message In cases where `fds` fails to run",
+      "url": "https://github.com/DagsHub/fds/issues/27"
+    },
+    "linkedPR": {
+      "number": 28,
+      "title": "Stop execution if command throws some error",
+      "url": "https://github.com/DagsHub/fds/pull/28",
+      "merged": true,
+      "changedFiles": 4
+    },
+    "baseSha": "12e17f98b54c72cc9c414f7d256ec8f5d968b658",
+    "fileChangedCount": 4,
+    "fetchedAt": "2026-03-29T15:40:16.266Z"
+  },
+  "DagsHub/fds#21": {
+    "issue": {
+      "number": 21,
+      "title": "Create a landing page for FDS",
+      "url": "https://github.com/DagsHub/fds/issues/21"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:40:17.636Z"
+  },
+  "DagsHub/fds#20": {
+    "issue": {
+      "number": 20,
+      "title": "Add more sophisticated tests for fds",
+      "url": "https://github.com/DagsHub/fds/issues/20"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:40:19.653Z"
+  },
+  "DagsHub/fds#19": {
+    "issue": {
+      "number": 19,
+      "title": "Add comparision of using fds with using git and dvc seperately ",
+      "url": "https://github.com/DagsHub/fds/issues/19"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:40:21.617Z"
+  },
+  "DagsHub/fds#18": {
+    "issue": {
+      "number": 18,
+      "title": "Add About section for FDS ",
+      "url": "https://github.com/DagsHub/fds/issues/18"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:40:23.629Z"
+  },
+  "DagsHub/fds#17": {
+    "issue": {
+      "number": 17,
+      "title": "Examples for all the commands",
+      "url": "https://github.com/DagsHub/fds/issues/17"
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "fetchedAt": "2026-03-29T15:40:25.658Z"
+  },
+  "DagsHub/fds#16": {
+    "issue": {
+      "number": 16,
+      "title": "Fix installation instructions for pip",
+      "url": "https://github.com/DagsHub/fds/issues/16"
+    },
+    "linkedPR": {
+      "number": 29,
+      "title": "Update README.md",
+      "url": "https://github.com/DagsHub/fds/pull/29",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "88720ea3fc17b5dc2adf6184b341058442366c07",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:40:26.395Z"
+  },
+  "DagsHub/fds#15": {
+    "issue": {
+      "number": 15,
+      "title": "Improve docker instructions",
+      "url": "https://github.com/DagsHub/fds/issues/15"
+    },
+    "linkedPR": {
+      "number": 29,
+      "title": "Update README.md",
+      "url": "https://github.com/DagsHub/fds/pull/29",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "88720ea3fc17b5dc2adf6184b341058442366c07",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:40:27.302Z"
+  },
+  "DagsHub/fds#14": {
+    "issue": {
+      "number": 14,
+      "title": "The commands are not fully listed in the readme right now, all the commands should be listed",
+      "url": "https://github.com/DagsHub/fds/issues/14"
+    },
+    "linkedPR": {
+      "number": 29,
+      "title": "Update README.md",
+      "url": "https://github.com/DagsHub/fds/pull/29",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "88720ea3fc17b5dc2adf6184b341058442366c07",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:40:28.355Z"
+  },
+  "DagsHub/fds#13": {
+    "issue": {
+      "number": 13,
+      "title": "Markdown in dvc install prompt isn't rendered as markdown",
+      "url": "https://github.com/DagsHub/fds/issues/13"
+    },
+    "linkedPR": {
+      "number": 25,
+      "title": "Removed non-working markdown from dvc install prompt",
+      "url": "https://github.com/DagsHub/fds/pull/25",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "ece3401bc651254b9eb242a491c1528259bd9d1f",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:40:29.536Z"
+  },
+  "DagsHub/fds#11": {
+    "issue": {
+      "number": 11,
+      "title": "`fds commit` doesn't really work",
+      "url": "https://github.com/DagsHub/fds/issues/11"
+    },
+    "linkedPR": {
+      "number": 103,
+      "title": "Bump humanize from 3.11.0 to 3.12.0",
+      "url": "https://github.com/DagsHub/fds/pull/103",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "d4e2289691e12c83a81a558ce08b0e461d465acf",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:40:31.734Z"
+  },
+  "DagsHub/fds#10": {
+    "issue": {
+      "number": 10,
+      "title": "`fds init` when DVC isn't installed only installs DVC but doesn't run `fds init`",
+      "url": "https://github.com/DagsHub/fds/issues/10"
+    },
+    "linkedPR": {
+      "number": 22,
+      "title": "fds commands will now try to resume after installing dvc",
+      "url": "https://github.com/DagsHub/fds/pull/22",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "6e93c2b3259a7601f392c09604a60fc0ff360ad8",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:40:32.370Z"
+  },
+  "DagsHub/fds#9": {
+    "issue": {
+      "number": 9,
+      "title": "fds not working on Mac with whitespaces in the path",
+      "url": "https://github.com/DagsHub/fds/issues/9"
+    },
+    "linkedPR": {
+      "number": 72,
+      "title": "Bump humanize from 3.9.0 to 3.10.0",
+      "url": "https://github.com/DagsHub/fds/pull/72",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "2fe1801e17b8d4ab26ba4aacb2d9b9bdabc32aaf",
+    "fileChangedCount": 1,
+    "fetchedAt": "2026-03-29T15:40:34.723Z"
+  },
+  "codereverser/casparser#109": {
+    "issue": {
+      "number": 109
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "changedFileNames": [],
+    "fetchedAt": "2026-03-29T16:16:23.333Z"
+  },
+  "codereverser/casparser#100": {
+    "issue": {
+      "number": 100
+    },
+    "linkedPR": {
+      "number": 84,
+      "title": "Add nominee parsing",
+      "url": "https://github.com/codereverser/casparser/pull/84",
+      "merged": true,
+      "changedFiles": 6
+    },
+    "baseSha": "ee7a60cbf33e97b6059149e7aaa77d40034f3f51",
+    "fileChangedCount": 6,
+    "changedFileNames": [
+      "CHANGELOG.md",
+      "casparser/__init__.py",
+      "casparser/process/cas_detailed.py",
+      "casparser/process/regex.py",
+      "casparser/types.py",
+      "tests/base.py"
+    ],
+    "fetchedAt": "2026-03-29T16:16:37.545Z"
+  },
+  "codereverser/casparser#86": {
+    "issue": {
+      "number": 86
+    },
+    "linkedPR": {
+      "number": 79,
+      "title": "Add support for new CAS file formats",
+      "url": "https://github.com/codereverser/casparser/pull/79",
+      "merged": true,
+      "changedFiles": 23
+    },
+    "baseSha": "4704eccd1258ec476fd5f5da8cf5f69a0def960a",
+    "fileChangedCount": 23,
+    "changedFileNames": [
+      ".github/scripts/extract_files.sh",
+      ".github/workflows/run-pytest.yml",
+      ".gitignore",
+      ".pre-commit-config.yaml",
+      "CHANGELOG.md",
+      "README.md",
+      "casparser/cli.py",
+      "casparser/parsers/mupdf.py",
+      "casparser/parsers/pdfminer.py",
+      "casparser/parsers/utils.py",
+      "casparser/process/cas_detailed.py",
+      "casparser/process/cas_summary.py",
+      "casparser/process/regex.py",
+      "casparser/process/utils.py",
+      "casparser/types.py",
+      "licenses/AGPL-3.0+.txt",
+      "licenses/GPL-3.0+.txt",
+      "poetry.lock",
+      "pyproject.toml",
+      "tests/base.py",
+      "tests/conftest.py",
+      "tests/files.enc",
+      "tox.ini"
+    ],
+    "fetchedAt": "2026-03-29T16:16:48.931Z"
+  },
+  "codereverser/casparser#62": {
+    "issue": {
+      "number": 62
+    },
+    "linkedPR": {
+      "number": 40,
+      "title": "Raise `IncorrectPasswordError` for invalid passwords",
+      "url": "https://github.com/codereverser/casparser/pull/40",
+      "merged": true,
+      "changedFiles": 4
+    },
+    "baseSha": "e507c5305554df16fcc3d48c709cfd20fe463eb9",
+    "fileChangedCount": 4,
+    "changedFileNames": [
+      "casparser/exceptions.py",
+      "casparser/parsers/mupdf.py",
+      "casparser/parsers/pdfminer.py",
+      "tests/base.py"
+    ],
+    "fetchedAt": "2026-03-29T16:17:00.723Z"
+  },
+  "codereverser/casparser#52": {
+    "issue": {
+      "number": 52
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "changedFileNames": [],
+    "fetchedAt": "2026-03-29T16:17:11.119Z"
+  },
+  "codereverser/casparser#41": {
+    "issue": {
+      "number": 41
+    },
+    "linkedPR": {
+      "number": 92,
+      "title": "Bump cryptography from 41.0.4 to 42.0.0",
+      "url": "https://github.com/codereverser/casparser/pull/92",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "9125c52d534fcf10933d4593d06579301c7107ca",
+    "fileChangedCount": 1,
+    "changedFileNames": [
+      "poetry.lock"
+    ],
+    "fetchedAt": "2026-03-29T16:17:24.550Z"
+  },
+  "codereverser/casparser#22": {
+    "issue": {
+      "number": 22
+    },
+    "linkedPR": {
+      "number": 92,
+      "title": "Bump cryptography from 41.0.4 to 42.0.0",
+      "url": "https://github.com/codereverser/casparser/pull/92",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "9125c52d534fcf10933d4593d06579301c7107ca",
+    "fileChangedCount": 1,
+    "changedFileNames": [
+      "poetry.lock"
+    ],
+    "fetchedAt": "2026-03-29T16:17:37.507Z"
+  },
+  "codereverser/casparser#2": {
+    "issue": {
+      "number": 2
+    },
+    "linkedPR": {
+      "number": 103,
+      "title": "NSDL support: first version",
+      "url": "https://github.com/codereverser/casparser/pull/103",
+      "merged": true,
+      "changedFiles": 19
+    },
+    "baseSha": "6eaa108d274992b99929ce7db28c98c3aea9965f",
+    "fileChangedCount": 19,
+    "changedFileNames": [
+      ".github/workflows/pypi-publish.yml",
+      ".github/workflows/run-pytest.yml",
+      "casparser/__init__.py",
+      "casparser/cli.py",
+      "casparser/enums.py",
+      "casparser/parsers/__init__.py",
+      "casparser/parsers/mupdf.py",
+      "casparser/parsers/pdfminer.py",
+      "casparser/process/__init__.py",
+      "casparser/process/nsdl_statement.py",
+      "casparser/process/regex.py",
+      "casparser/types.py",
+      "poetry.lock",
+      "pyproject.toml",
+      "tests/base.py",
+      "tests/files.enc",
+      "tests/test_mupdf.py",
+      "tests/test_pdfminer.py",
+      "uv.lock"
+    ],
+    "fetchedAt": "2026-03-29T16:17:46.615Z"
+  },
+  "codereverser/casparser#110": {
+    "issue": {
+      "number": 110
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "changedFileNames": [],
+    "fetchedAt": "2026-03-29T16:25:54.712Z"
+  },
+  "codereverser/casparser#101": {
+    "issue": {
+      "number": 101
+    },
+    "linkedPR": {
+      "number": 17,
+      "title": "v0.4 - Support for parsing consolidated account summary from CAMS/KARVY",
+      "url": "https://github.com/codereverser/casparser/pull/17",
+      "merged": true,
+      "changedFiles": 13
+    },
+    "baseSha": "8bbe75bddc3c1dc1afa62442aac6f332229e6dcd",
+    "fileChangedCount": 13,
+    "changedFileNames": [
+      ".github/workflows/run-pytest.yml",
+      "README.md",
+      "casparser/cli.py",
+      "casparser/enums.py",
+      "casparser/parsers/mupdf.py",
+      "casparser/process/__init__.py",
+      "casparser/process/cas_detailed.py",
+      "casparser/process/cas_summary.py",
+      "casparser/process/regex.py",
+      "tests/base.py",
+      "tests/files.enc",
+      "tests/test_mupdf.py",
+      "tests/test_process.py"
+    ],
+    "fetchedAt": "2026-03-29T16:26:06.102Z"
+  },
+  "codereverser/casparser#81": {
+    "issue": {
+      "number": 81
+    },
+    "linkedPR": {
+      "number": 82,
+      "title": "Various bug fixes",
+      "url": "https://github.com/codereverser/casparser/pull/82",
+      "merged": true,
+      "changedFiles": 6
+    },
+    "baseSha": "a7ae0a00f03b1d9143a1f3bae017818543f5843c",
+    "fileChangedCount": 6,
+    "changedFileNames": [
+      "casparser/__init__.py",
+      "casparser/analysis/gains.py",
+      "casparser/parsers/pdfminer.py",
+      "casparser/process/regex.py",
+      "pyproject.toml",
+      "tests/base.py"
+    ],
+    "fetchedAt": "2026-03-29T16:26:18.131Z"
+  },
+  "codereverser/casparser#57": {
+    "issue": {
+      "number": 57
+    },
+    "linkedPR": {
+      "number": 47,
+      "title": "Miscellaneous fixes",
+      "url": "https://github.com/codereverser/casparser/pull/47",
+      "merged": true,
+      "changedFiles": 9
+    },
+    "baseSha": "53cfa2a78982259a2c81546beacfa7825578db9c",
+    "fileChangedCount": 9,
+    "changedFileNames": [
+      "CHANGELOG.md",
+      "casparser/analysis/gains.py",
+      "casparser/cli.py",
+      "casparser/process/cas_detailed.py",
+      "casparser/process/regex.py",
+      "casparser/types.py",
+      "pyproject.toml",
+      "tests/test_gains.py",
+      "tests/test_process.py"
+    ],
+    "fetchedAt": "2026-03-29T16:26:30.048Z"
+  },
+  "codereverser/casparser#46": {
+    "issue": {
+      "number": 46
+    },
+    "linkedPR": {
+      "number": 47,
+      "title": "Miscellaneous fixes",
+      "url": "https://github.com/codereverser/casparser/pull/47",
+      "merged": true,
+      "changedFiles": 9
+    },
+    "baseSha": "53cfa2a78982259a2c81546beacfa7825578db9c",
+    "fileChangedCount": 9,
+    "changedFileNames": [
+      "CHANGELOG.md",
+      "casparser/analysis/gains.py",
+      "casparser/cli.py",
+      "casparser/process/cas_detailed.py",
+      "casparser/process/regex.py",
+      "casparser/types.py",
+      "pyproject.toml",
+      "tests/test_gains.py",
+      "tests/test_process.py"
+    ],
+    "fetchedAt": "2026-03-29T16:26:31.231Z"
+  },
+  "codereverser/casparser#45": {
+    "issue": {
+      "number": 45
+    },
+    "linkedPR": null,
+    "baseSha": null,
+    "fileChangedCount": null,
+    "changedFileNames": [],
+    "fetchedAt": "2026-03-29T16:26:40.683Z"
+  },
+  "codereverser/casparser#23": {
+    "issue": {
+      "number": 23
+    },
+    "linkedPR": {
+      "number": 116,
+      "title": "[add]: Add important fields to mutual fund type",
+      "url": "https://github.com/codereverser/casparser/pull/116",
+      "merged": true,
+      "changedFiles": 1
+    },
+    "baseSha": "a0a9624d9483b36141fdde50b6c69e59fdaf659e",
+    "fileChangedCount": 1,
+    "changedFileNames": [
+      "casparser/types.py"
+    ],
+    "fetchedAt": "2026-03-29T16:26:54.182Z"
+  },
+  "codereverser/casparser#4": {
+    "issue": {
+      "number": 4
+    },
+    "linkedPR": {
+      "number": 103,
+      "title": "NSDL support: first version",
+      "url": "https://github.com/codereverser/casparser/pull/103",
+      "merged": true,
+      "changedFiles": 19
+    },
+    "baseSha": "6eaa108d274992b99929ce7db28c98c3aea9965f",
+    "fileChangedCount": 19,
+    "changedFileNames": [
+      ".github/workflows/pypi-publish.yml",
+      ".github/workflows/run-pytest.yml",
+      "casparser/__init__.py",
+      "casparser/cli.py",
+      "casparser/enums.py",
+      "casparser/parsers/__init__.py",
+      "casparser/parsers/mupdf.py",
+      "casparser/parsers/pdfminer.py",
+      "casparser/process/__init__.py",
+      "casparser/process/nsdl_statement.py",
+      "casparser/process/regex.py",
+      "casparser/types.py",
+      "poetry.lock",
+      "pyproject.toml",
+      "tests/base.py",
+      "tests/files.enc",
+      "tests/test_mupdf.py",
+      "tests/test_pdfminer.py",
+      "uv.lock"
+    ],
+    "fetchedAt": "2026-03-29T16:27:04.188Z"
+  }
+}
